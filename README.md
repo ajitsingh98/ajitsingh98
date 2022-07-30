@@ -9,7 +9,7 @@
   <li> 🔭 I’m currently working at Hilabs as Data Scientist </li>
   <li>🌱 I’m currently learning Web Devlopment </li>
   <li> 	&hearts; I love doing collaborations with enthusiastic people </li>
-  <li><a href="https://ajitsingh98.github.io/">My portfoli</a></li>
+  <li> &smiles; <a href="https://ajitsingh98.github.io/" target="_blank">my portfolio</a></li>
 </ul>
 
 
