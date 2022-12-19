@@ -10,8 +10,7 @@ I am Ajit. I am a Data Scientist @ <a href="https://www.hilabs.com/" target="_bl
   <li> 🔭 Learning about and adjusting to new advancements in the field of machine learning</li>
   <li>🌱  Including downtime in codes </li>
   <li> &hearts; I love doing collaborations with enthusiastic people </li>
-  <li>😉 follow this page if you like to see cool projects/repos about Data Science </li>
-  <li> 👀 <a href="https://ajitsingh98.github.io/" target="_blank">my portfolio</a></li>
 </ul>
-
+<p> 😉 follow this page if you like to see cool projects/repos about Data Science.</p>
+<p>👀 <a href="https://ajitsingh98.github.io/" target="_blank">my portfolio</a> </p>
 
