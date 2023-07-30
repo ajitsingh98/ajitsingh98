@@ -13,4 +13,6 @@ I am Ajit. I am a Data Scientist @ <a href="https://www.hilabs.com/" target="_bl
 </ul>
 <p> 😉 follow this page if you like to see cool projects/repos about Data Science.</p>
 <p>👀 <a href="https://ajitsingh98.github.io/" target="_blank">my portfolio</a> </p>
+<p>🙃 My Github Stats </p>
 
+![My github Stats](https://github-readme-stats.vercel.app/api?username=ajitsingh98&theme=gruvbox_light&show_icons=true)
