@@ -14,7 +14,7 @@ I am Ajit. I am a Data Scientist @ <a href="https://www.hilabs.com/" target="_bl
   <li>🌱  Including downtime in codes </li>
   <li> &hearts; I love doing collaborations with enthusiastic people </li>
 </ul>
-<p> 😉 follow this page if you like to see cool projects/repos about Data Science.</p>
+<p> 😉 <b>follow this page if you like to see cool projects/repos about Data Science.</b> </p>
 <p>👀 <a href="https://ajitsingh98.github.io/" target="_blank">my portfolio</a> </p>
 <p>🙃 My Github Stats </p>
 
