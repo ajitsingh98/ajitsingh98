@@ -33,5 +33,7 @@ I am Ajit. I am a Data Scientist @ <a href="https://www.hilabs.com/" target="_bl
 
 ![My github Stats](https://github-readme-stats.vercel.app/api?username=ajitsingh98&theme=gruvbox_light&show_icons=true)
 
+
+<a href="http://www.github.com/ajitsingh98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitsingh98&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <p> 😉 <b>follow this page if you like to see cool projects/repos about Data Science.</b> </p>
 
