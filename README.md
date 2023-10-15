@@ -27,7 +27,7 @@ Contacts
 <p>👀 <a href="https://ajitsingh98.github.io/" target="_blank">my portfolio</a> </p>
 <p><a href="https://www.twitter.com/silent_soul_1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sajit9285"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/lucky_dude_007/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
-⚡ Current Profile Visitor Count
+🥑 Current Profile Visitor Count
 ---
 ![Visitor Count](https://profile-counter.glitch.me/ajitsingh98/count.svg)
 
