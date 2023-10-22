@@ -2,12 +2,13 @@
 
 <!--
 **sajit9285/sajit9285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<a href="https://github.com/ajitsingh98">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ajitsingh98&cc=22272f&tc=37BCF6&ic=fff&bc=0000">
-</a>
 <p>
 I am Ajit. I am a Data Scientist @ <a href="https://www.hilabs.com/" target="_blank">HiLabs</a>. I have more than 2 years of professional experience in the data science field and have worked on numerous projects in the ML/DL domain. I believe in democratizing AI and ML developments for the welfare of society at large.
 </p>
+
+<a href="https://github.com/ajitsingh98">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ajitsingh98&cc=22272f&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 My Skills
 ---
