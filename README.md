@@ -32,6 +32,7 @@ Contacts
 
  ⚡ My Github Stats
  ---
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitsingh98&label=Profile%20views&color=0e75b6&style=flat" alt="ajitsingh98" /> </p>  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitsingh98&theme=dracula) 
 
