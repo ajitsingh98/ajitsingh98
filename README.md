@@ -3,7 +3,7 @@
 <!--
 **sajit9285/sajit9285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p>
-I am Ajit. I am a Data Scientist @ <a href="https://www.hilabs.com/" target="_blank">HiLabs</a>. I have more than 2 years of professional experience in the data science field and have worked on numerous projects in the ML/DL domain. I believe in democratizing AI and ML developments for the welfare of society at large.
+I am Ajit. I am a Data Scientist @ <a href="https://www.pixis.ai/" target="_blank">Pixis</a>. I have more than 3 years of professional experience in the data science field and have worked on numerous projects in the ML/DL domain. I believe in democratizing AI and ML developments for the welfare of society at large.
 </p>
 
 <a href="https://github.com/ajitsingh98">
