@@ -21,7 +21,7 @@ I wield a variety of tools and technologies to turn data into insights:
 <a href="https://ajitsingh98.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=red" height=25></a> 
 <a href="https://www.twitter.com/bayesian_walker"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://www.linkedin.com/in/sajit9285"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/bayesian_walker/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://medium.com/@sajit9285"><img src="https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 </p>
 
 ## ⚡ My Github Stats
@@ -41,4 +41,4 @@ I wield a variety of tools and technologies to turn data into insights:
 ## ✏️ Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitsingh98&theme=cobalt&langs_count=10&layout=compact) 
 
-👀 **Follow this page if you like to see cool projects/repos about Data Science.** 😉
+👀 **Follow this page to see cool projects/guide about Data Science.** 😉
