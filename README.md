@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub! I'm **Ajit Kumar Singh**, a passionate **Data Scientist** at [Pixis](https://www.pixis.ai/) with over **3 years of professional experience** in Machine Learning (ML) and Deep Learning (DL). I’m deeply committed to **democratizing AI** and developing cutting-edge solutions for real-world problems. 🌍🚀
+Welcome to my GitHub! I'm **Ajit Kumar Singh**, a passionate **Data Scientist** at [Zepto](https://www.zeptonow.com/) with over **3 years of professional experience** in Machine Learning (ML) and Deep Learning (DL). I’m deeply committed to **democratizing AI** and developing cutting-edge solutions for real-world problems. 🌍🚀
 
 ---
 
