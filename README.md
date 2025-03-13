@@ -83,5 +83,40 @@ Welcome to my GitHub! I'm **Ajit Kumar Singh**, a passionate **Data Scientist** 
 ## ✏️ Top Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitsingh98&theme=cobalt&langs_count=10&layout=compact)
 
+## Limitations
+
+1. **Form Complexity**:
+   - Maximum 20 form questions supported
+   - Limited to standard Google Forms fields
+   - No support for file uploads
+
+2. **File Requirements**:
+   - PDF files only
+   - Maximum 10MB file size
+   - Clear, readable format
+
+3. **Technical Requirements**:
+   - Stable internet connection
+   - Valid API keys
+   - Modern web browser
+
+## Future Improvements
+
+1. **Enhanced AI Models**:
+   - Support for more AI models
+   - Improved information extraction
+   - Better context understanding
+
+2. **Additional Features**:
+   - Support for more form types
+   - Batch application processing
+   - Custom field mapping
+
+3. **User Experience**:
+   - Mobile optimization
+   - Offline support
+   - Custom templates
+
+
 👀 **Follow this page to stay updated on AI, LLMs, and cool projects!** 🚀
 
