@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm **Ajit Kumar Singh**, a passionate **Data Scientist** 
 ---
 
 ## ⚡ GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitsingh98&label=Profile%20views&color=0e75b6&style=flat" alt="ajitsingh98" /> </p>
+[![Profile Views 👀](https://u8views.com/api/v1/github/profiles/39492456/views/day-week-month-total-count.svg)](https://u8views.com/github/ajitsingh98)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitsingh98&theme=dracula)
 ---
