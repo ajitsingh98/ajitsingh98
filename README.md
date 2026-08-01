@@ -53,44 +53,49 @@ Outside of work, I enjoy writing deep technical content that explains modern AI 
 
 # ⚙️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p align="center">
+### 👨‍💻 Languages
+
 <img src="https://skillicons.dev/icons?i=python,cpp,scala,bash,mysql"/>
-</p>
 
-### AI / Machine Learning
 
-<p align="center">
+### 🤖 AI & Machine Learning
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Transformers-FFCA28?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA-E11D48?style=flat-square"/>
 
-![](https://img.shields.io/badge/Transformers-FFCA28?style=flat-square)
-![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface)
-![](https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square)
-![](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
-![](https://img.shields.io/badge/LlamaIndex-4F46E5?style=flat-square)
-![](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
-![](https://img.shields.io/badge/Agentic_AI-0891B2?style=flat-square)
-![](https://img.shields.io/badge/FAISS-2563EB?style=flat-square)
-![](https://img.shields.io/badge/Pinecone-111827?style=flat-square)
-![](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
 
-</div>
+### 🔍 Search • Retrieval • RAG
 
-### Infrastructure
+<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_Search-059669?style=flat-square"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode"/>
-</p>
 
-<div align="center">
+### ☁️ Data Engineering & Infrastructure
 
-![](https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square"/>
+
+
+### 🚀 Areas of Interest
+
+<img src="https://img.shields.io/badge/Recommendation_Systems-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Inference_Engineering-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-059669?style=for-the-badge"/>
 
 </div>
 
@@ -115,16 +120,6 @@ Outside of work, I enjoy writing deep technical content that explains modern AI 
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitsingh98&theme=github_dark"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitsingh98&theme=github-compact"/>
 
 </p>
 
