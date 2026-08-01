@@ -1,87 +1,161 @@
-# Hi there! 👋
+<div align="center">
 
-Welcome to my GitHub! I'm **Ajit Kumar Singh**, a passionate **Data Scientist** at [Zepto](https://www.zeptonow.com/) with over **3 years of professional experience** in Machine Learning (ML) and Deep Learning (DL). I’m deeply committed to **democratizing AI** and developing cutting-edge solutions for real-world problems. 🌍🚀
+# 👋 Hi, I'm Ajit Kumar Singh
 
----
+### Data Scientist | Recommendation Systems | LLM Engineering
 
-## 🔥 About Me
-- 🏆 Experienced in **ML, DL, NLP, and Generative AI**
-- ⚡ Passionate about **Large Language Models (LLMs)**, **Agentic AI**, and **Retrieval-Augmented Generation (RAG)**
-- 🏗️ Building **AI-driven applications** using the latest advancements in **LLMs and vector databases**
-- 🎯 Open to **collaborations** on AI and **research-focused** projects
-- 📢 Speaker & Contributor in **AI & ML communities**
-
----
-
-## 🚀 Tech Stack & Skills
-
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sqlite&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-red?style=for-the-badge&logo=scala&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### **Machine Learning & Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-brightgreen?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-darkblue?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-red?style=for-the-badge)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Vector Databases & RAG**
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-green?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-lightblue?style=for-the-badge)
-
-### **Big Data & Distributed Computing**
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
----
-
-## 📚 Interests
-- 🤖 **Building autonomous AI agents** using LLMs and Agentic AI
-- 🧠 **Optimizing transformer architectures** for NLP & time-series forecasting
-- 📈 **Developing scalable ML solutions** in production environments
-- 📝 Writing blogs and tutorials on AI advancements
-
----
-
-## 📬 Connect With Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Production+AI+Systems;Recommendation+Systems;Large+Language+Models;Inference+Engineering;Search+%26+Retrieval;Technical+Writer;Open+Source+Builder"/>
 
 <p>
-<a href="https://ajitsingh98.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=red" height=25></a>
-<a href="https://www.twitter.com/bayesian_walker"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/sajit9285"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://medium.com/@sajit9285"><img src="https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://ajitsingh98.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sajit9285"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@sajit9285"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://twitter.com/bayesian_walker"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Recommendation%20Systems-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Inference%20Engineering-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Search%20%26%20Retrieval-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-111827?style=flat-square"/>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ajitsingh98&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Data Scientist** passionate about building intelligent systems that scale.
+
+My work focuses on **Recommendation Systems**, **Large Language Models**, **Search & Retrieval**, **Inference Engineering**, and **Production Machine Learning**.
+
+Outside of work, I enjoy writing deep technical content that explains modern AI from first principles and building open-source resources that make advanced AI easier to learn.
+
+---
+
+# 🚀 Featured Work
+
+| Project | Description |
+|----------|-------------|
+| 🧠 **Inside Modern LLMs** *(In Progress)* | A comprehensive deep dive into every component of modern transformer architectures |
+| ⚡ **Inference Engineering** *(In Progress)* | Practical guide to efficient LLM inference, optimization & deployment |
+| 🎯 **Recommendation Systems** *(In Progress)* | End-to-end retrieval, ranking and personalization concepts |
+| 🌱 **LLM Pathshala** *(Building)* | An open learning platform for mastering AI from first principles |
+| 📚 **AI Interview Handbook** *(Upcoming)* | ML, LLM and System Design interview preparation |
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,scala,bash,mysql"/>
+</p>
+
+### AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Transformers-FFCA28?style=flat-square)
+![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface)
+![](https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square)
+![](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![](https://img.shields.io/badge/LlamaIndex-4F46E5?style=flat-square)
+![](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![](https://img.shields.io/badge/Agentic_AI-0891B2?style=flat-square)
+![](https://img.shields.io/badge/FAISS-2563EB?style=flat-square)
+![](https://img.shields.io/badge/Pinecone-111827?style=flat-square)
+![](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
+
+</div>
+
+### Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode"/>
+</p>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ajitsingh98&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitsingh98&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ajitsingh98&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitsingh98&theme=github_dark"/>
+
 </p>
 
 ---
 
-## ⚡ GitHub Stats
-[![Profile Views 👀](https://u8views.com/api/v1/github/profiles/39492456/views/day-week-month-total-count.svg)](https://u8views.com/github/ajitsingh98)
+# 📈 Contribution Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitsingh98&theme=dracula)
----
+<p align="center">
 
-## 🔥 Featured Projects
-[![Time-Series-Analysis-and-Forecasting-with-Python](https://github-readme-stats.vercel.app/api/pin/?username=ajitsingh98&repo=Time-Series-Analysis-and-Forecasting-with-Python&theme=radical)](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitsingh98&theme=github-compact"/>
 
-[![DNA-Classification-Project](https://github-readme-stats.vercel.app/api/pin/?username=ajitsingh98&repo=DNA-Classification-Project&theme=radical)](https://github.com/ajitsingh98/DNA-Classification-Project)
-
-[![cattle-breed-classifier-webapp](https://github-readme-stats.vercel.app/api/pin/?username=ajitsingh98&repo=cattle-breed-classifier-webapp&theme=radical)](https://github.com/ajitsingh98/cattle-breed-classifier-webapp)
+</p>
 
 ---
 
-## ✏️ Top Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitsingh98&theme=cobalt&langs_count=10&layout=compact)
+# 🏆 GitHub Achievements
 
-👀 **Follow this page to stay updated on AI, LLMs, and cool projects!** 🚀
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=ajitsingh98&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+If you find any of my repositories useful, consider giving them a ⭐.
+
+**Happy Building! 🚀**
+
+</div>
